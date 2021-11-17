@@ -1,0 +1,17 @@
+body {
+    background-color: maroon;
+}
+
+.card {
+    width: 200px;
+    position: absolute;
+    background-color: transparent;
+}
+
+img {
+    width: 100%;
+}
+
+#draw-pile {
+    margin-top: 120px;
+}
